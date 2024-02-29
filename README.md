@@ -30,3 +30,7 @@ streamlit run app.py
 - Click at "Browse files" to choose an image for detection. The original image will appear on left hand of main window.
 - Click at "Detect Objects" to detect the image. The detected image will appear on right hand of main window.
   ***Before detect image, you can adjust confidence score at "Select Minimum Confidence"***
+
+### Reference
+- streamlit app: https://github.com/CodingMantras/yolov8-streamlit-detection-tracking
+- YOLOv8: https://github.com/ultralytics/ultralytics
